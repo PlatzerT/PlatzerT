@@ -28,16 +28,3 @@
 ### 📊 My Github Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlatzerT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-### ⏰ So Far, I Spent My Time On:
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<figure>
-  <embed src="https://wakatime.com/share/@82c2c943-5fa5-42c0-8860-5b7a3bbae42e/495bd2fc-90b7-4be1-9f0c-ade6d484d33f.svg">
-  </embed>
-</figure>
