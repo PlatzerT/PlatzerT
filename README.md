@@ -1,4 +1,4 @@
-<img src="./header.png" />
+<img src="./index.png" />
 
 ### Hi there, I'm Thomas 👋  
   
