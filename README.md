@@ -9,7 +9,7 @@
 
 <br/>  
 
-## My Skill Set
+### ⚙️ My Skill Set
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"/>
@@ -25,9 +25,11 @@
   <img src="https://img.shields.io/badge/-Cisco Packet Tracer-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge"/>
 </div>
 
+### 📊 My Github Stats
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PlatzerT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-## ⏰ So Far, I Spent My Time On:
+### ⏰ So Far, I Spent My Time On:
 
 <!--START_SECTION:waka-->
 ```text
