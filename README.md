@@ -36,3 +36,8 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<figure>
+  <embed src="https://wakatime.com/share/@82c2c943-5fa5-42c0-8860-5b7a3bbae42e/495bd2fc-90b7-4be1-9f0c-ade6d484d33f.svg">
+  </embed>
+</figure>
