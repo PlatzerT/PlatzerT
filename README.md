@@ -4,8 +4,7 @@
   
 - 👨🏻‍🎓 Student at HTL-Wels in Austria  
 
-
-- 🖥️ Developing Web-Applications is my passion 
+- 🖥️ Developing Web-Applications as well as designing UI/UX is my passion 
 
 - 🏀 Check out my dribbble profile https://dribbble.com/thpl1 
 
